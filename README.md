@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @me-luci
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning HTML-CSS-javascript
-- 📫 How to reach me on insta-jagdishrout_
-- ⚡ Fun fact: i can do what ever i can to be the best ++++++++++
+- 📫 How to reach me on insta-jagdish_sss
+- code_blooded
 
 <!---
 me-luci/me-luci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
