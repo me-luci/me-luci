@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @me-luci
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning HTML-CSS-javascript
+- 🌱 I’m currently learning react.js
 - 📫 How to reach me on insta-jagdish_sss
 - code_blooded
 
